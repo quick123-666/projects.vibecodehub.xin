@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>VibeCodeHub Projects</title>
+ <style>
+ * { margin: 0; padding: 0; box-sizing: border-box; }
+ body {
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+ background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ color: #fff;
+ text-align: center;
+ padding: 2rem;
+ }
+ h1 {
+ font-size: 3rem;
+ margin-bottom: 1rem;
+ background: linear-gradient(90deg, #00d4ff, #7c3aed);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ }
+ p {
+ font-size: 1.2rem;
+ color: #a0a0c0;
+ margin-bottom: 2rem;
+ }
+ .badge {
+ background: rgba(0, 212, 255, 0.1);
+ border: 1px solid rgba(0, 212, 255, 0.3);
+ padding: 0.5rem 1.5rem;
+ border-radius: 50px;
+ font-size: 0.9rem;
+ color: #00d4ff;
+ }
+ </style>
+</head>
+<body>
+ <h1>🚀 Projects.vibecodehub</h1>
+ <p>我的 GitHub Pages 项目展示站</p>
+ <span class="badge">✨ Powered by GitHub Pages</span>
+</body>
+</html>
